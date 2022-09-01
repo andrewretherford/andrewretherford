@@ -1,4 +1,4 @@
-<img src=''/>
+<img src='./assets/pacifica.png'/>
 
 # About Me
 A Software Engineer based in the San Francisco Bay Area.  When I’m not working I spend my time doing things that I love including gaming, archery, mountain biking, watching anime, or just learning how to do something new!  
